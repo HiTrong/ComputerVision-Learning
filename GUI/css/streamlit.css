@@ -1,0 +1,79 @@
+.stApp {
+    background: url("https://images3.alphacoders.com/274/274679.jpg") no-repeat center center fixed !important;
+    background-size: cover !important;
+}
+.stApp::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.84); 
+    
+}
+
+
+
+.nav, .nav-item {
+    font-family: Arial, sans-serif;
+}
+
+
+.st-ar {
+    font-family: 'Arial', sans-serif;
+}
+
+
+.st-emotion-cache-18ni7ap {
+    background: linear-gradient(to right,#a9bce1, #fdfcfd);
+}
+
+.st-emotion-cache-10oheav {
+    background: #a9bce1;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.subheader {
+    text-align: left;
+    font-size: 30px;
+}
+
+.subheader-text {
+    font-size: 20px;
+}
+
+
+.st-emotion-cache-q3uqly {
+    background: rgb(169, 169, 255);
+    border: 2px solid rgb(0, 0, 0)
+}
+
+.st-emotion-cache-q3uqly:hover {
+    background: rgb(129, 129, 238);
+    border: 2px solid rgb(149, 149, 238);
+}
+
+.st-emotion-cache-q3uqly:active {
+    color: #b0c7ff;
+}
+
+.st-emotion-cache-1kyxreq, .st-emotion-cache-1r6slb0, .stButton , .stTextLabelWrapper  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.stTextLabelWrapper  {
+    margin-top: 30px;
+}
+
+
+
+
+
+
