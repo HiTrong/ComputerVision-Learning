@@ -11,15 +11,15 @@
 
 ## Một số hình ảnh trong Project
 
-![demo1][\img_demo\demo1.png]
+![demo1](./img_demo/demo1.png)
 
-![demo2][\img_demo\demo2.png]
+![demo2](./img_demo/demo2.png)
 
-![demo3][\img_demo\demo3.png]
+![demo3](./img_demo/demo3.png)
 
-![demo4][\img_demo\demo4.png]
+![demo4](./img_demo/demo4.png)
 
-![demo5][\img_demo\demo5.png]
+![demo5](./img_demo/demo5.png)
 
 ## Lời kết
 - Cảm ơn vì đã đọc xem đến cuối!
